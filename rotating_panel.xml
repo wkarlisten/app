@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://github.com/wkarlisten/app/blob/main/WKAR-banner_news-640x100.png?raw=true</image>
+    <url>https://www.wkar.org/wkar-news</url>
+    <redirect>n</redirect>
+  </panel>
+  
+
+</rotator>
